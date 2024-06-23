@@ -1,5 +1,5 @@
  <a href="https://github.com/jose-alexx">
-    <img align="center" src="https://raw.githubusercontent.com/gist/jose-alexx/86291df18d3daccdff4f0cab7a962163/raw/6fa04ae4f3e78ec957df70a04cd65e6fd1758761/alex-perfil.svg" ">
+    <img align="center" src="https://raw.githubusercontent.com/gist/jose-alexx/86291df18d3daccdff4f0cab7a962163/raw/6fa04ae4f3e78ec957df70a04cd65e6fd1758761/perfil-boas-vindas.svg">
   </a> 
   <br>
   <br>
@@ -53,7 +53,7 @@
    -->
 
 <div  align="left"> 
-  <img src="https://raw.githubusercontent.com/gist/jose-alexx/ca62ee9a1d7bb74e021280459e246778/raw/a4da54ca9351036d10de3020d2ef75570a71ce5a/ddde.svg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+  <img src="https://raw.githubusercontent.com/gist/jose-alexx/ca62ee9a1d7bb74e021280459e246778/raw/a4da54ca9351036d10de3020d2ef75570a71ce5a/logo-boas-vindas.svg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
   <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fjose-alexx&s=50&c=FFBD59&bg=000&no=7&ff=digi&tb=Visits%3A++&ta="  min-width="100px" max-width="200px" width="150px" />
   <!-- <img src="https://komarev.com/ghpvc/?username=alexx-pereira&labelColor=FFBD59&color=FFBD59&abbreviated=true&style=flat-square" min-width="100px" max-width="200px" width="150px" alt="Computador iuriCode" color="FFBD59"> -->
  
